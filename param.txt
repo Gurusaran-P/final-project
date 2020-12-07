@@ -3,3 +3,8 @@ HEIGHT             :44m
 DIAMETER           :2.8m
 NUMBER OF STAGES   :4
 LIFT OF MASS       :320tonnes(XL)
+ fourth stage      :ps4
+the ps4 is the uppermost stage of pslv,comprising of two earth storable liquid engines.
+engine        :2*ps-4
+fuel          :mmh+mon
+max.thrust    :7.6*2KN
