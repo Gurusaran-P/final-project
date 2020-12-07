@@ -1,0 +1,5 @@
+base param
+HEIGHT             :44m
+DIAMETER           :2.8m
+NUMBER OF STAGES   :4
+LIFT OF MASS       :320tonnes(XL)
